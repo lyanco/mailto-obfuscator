@@ -12,5 +12,5 @@ This script has been running on a publicly accessible web site since 2014 and ha
 ## Character reference:
 * String.fromCharCode(97) is 'a'
 * String.fromCharCode(122) is 'z'
-* String.fromCharCode(46) or '\&\#46' is '.'
+* String.fromCharCode(46) or '\&\#46;' is '.'
 * String.fromCharCode(64) or '\&\#x40;' is '@'
