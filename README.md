@@ -9,4 +9,8 @@ This script has been running on a publicly accessible web site since 2014 and ha
 * Mix up regular letters with Char Codes as the example does
 * Place this code within \<script\> tags inside whatever element you want to contain the mailto link. Don't put it too close to the top of the page content or you risk Google adding your email in plaintext in the search result description.
 
-For reference, String.fromCharCode(97) is 'a', String.fromCharCode(122) is 'z', String.fromCharCode(46) is '.', and String.fromCharCode(64) or '\&\#x40;' is '@'
+## Character reference:
+* String.fromCharCode(97) is 'a'
+* String.fromCharCode(122) is 'z'
+* String.fromCharCode(46) or '\&\#46' is '.'
+* String.fromCharCode(64) or '\&\#x40;' is '@'
