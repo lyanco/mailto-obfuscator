@@ -1,5 +1,5 @@
 # mailto-obfuscator
-Hide mailto links from spambots, show them to real people
+Hide mailto links from spambots, show them to real people.
 
 This script has been running on a publicly accessible web site since 2014 and has yet to receive a single automated spam message. It works because most spambot crawlers are too lazy or resource-constrained to execute JS, they just look for low hanging fruit mailtos in the page source.
 
